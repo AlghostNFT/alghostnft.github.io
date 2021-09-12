@@ -1,0 +1,242 @@
+[
+    {
+        "asset_id": 324687330,
+        "asset_name": "Alghost #1",
+        "unit_name": "GHST1",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/Qmby9sGxEkXmFPAbhm8NQFsSoy1RCumwAzX4hnnE9951eY"
+    },
+    {
+        "asset_id": 324687512,
+        "asset_name": "Alghost #2",
+        "unit_name": "GHST2",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmcnjoNG4XRB2xLY1mFFJ4qFg3GtRUSFgLSnazKD4NCEZB"
+    },
+    {
+        "asset_id": 324687719,
+        "asset_name": "Alghost #3",
+        "unit_name": "GHST3",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmRgKzZpx99bfZRC9w6vMFGcwu2FqWJfSBrwHF56yvfYon"
+    },
+    {
+        "asset_id": 324687886,
+        "asset_name": "Alghost #4",
+        "unit_name": "GHST4",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/Qma4o6kP8a7QxzwpateVTLYeatLWYou8nG5NSeGwYuLkLm"
+    },
+    {
+        "asset_id": 324688117,
+        "asset_name": "Alghost #5",
+        "unit_name": "GHST5",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmbD2nDPkceKkjz6qfZzeEuwBGmbZEcXScANmaZTu4CXDr"
+    },
+    {
+        "asset_id": 324688372,
+        "asset_name": "Alghost #6",
+        "unit_name": "GHST6",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmepFdqzJVyFmJneZ6n3jFhmRm8LeCgKhECKkn4z1e46iq"
+    },
+    {
+        "asset_id": 324688540,
+        "asset_name": "Alghost #7",
+        "unit_name": "GHST7",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmWyi3Q64HF6X7vSpSjZ8SgovXoGzBZd4NSx8F7MSA4ndc"
+    },
+    {
+        "asset_id": 324688694,
+        "asset_name": "Alghost #8",
+        "unit_name": "GHST8",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/Qmamn76cKqPCaF1FGTKEi69Vg1sRUGyFvH6k1kQ8YkdmTU"
+    },
+    {
+        "asset_id": 324688853,
+        "asset_name": "Alghost #9",
+        "unit_name": "GHST9",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmPenYSAunvMhNif2bBMPgwv61M7U7yxM2qxi18D5wY4du"
+    },
+    {
+        "asset_id": 324689066,
+        "asset_name": "Alghost #10",
+        "unit_name": "GHST10",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmZxJz1UdKYNMfWnyk4zftEF3yBFugXnWUXZxQ8xE5VLCF"
+    },
+    {
+        "asset_id": 325647773,
+        "asset_name": "Alghost #11",
+        "unit_name": "GHST11",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmWvvf8Vh8vafgmmbf2f1Ye4MwbAWNvfos5ixv8zpo2MJm"
+    },
+    {
+        "asset_id": 325647940,
+        "asset_name": "Alghost #12",
+        "unit_name": "GHST12",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmQsaShyjoNBnpqDJ5CLF4WzDm5thSpuVsoJ9gy96NE1mp"
+    },
+    {
+        "asset_id": 325648161,
+        "asset_name": "Alghost #13",
+        "unit_name": "GHST13",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmVv1jMNHn8gzQwTFGfp8Q4h4h6YkWazG6QhccXSANbdBp"
+    },
+    {
+        "asset_id": 325648345,
+        "asset_name": "Alghost #14",
+        "unit_name": "GHST14",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmRbK3xkDwTsjpX7rYsgcTwPNYL3iYYKhxbaz8ANVyaufu"
+    },
+    {
+        "asset_id": 325648543,
+        "asset_name": "Alghost #15",
+        "unit_name": "GHST15",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmcAENb9t4L596J4tugiG3xBnq5wGG3aq68wJRjtGfTEDP"
+    },
+    {
+        "asset_id": 325648757,
+        "asset_name": "Alghost #16",
+        "unit_name": "GHST16",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmaZyLboV5ay5oZQD1Z39uAqGByJ8UNw14oam1cHcCA5QB"
+    },
+    {
+        "asset_id": 325649084,
+        "asset_name": "Alghost #17",
+        "unit_name": "GHST17",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/Qmcg5fU6iwJWMSKbFuaBY6ZYB4UZFMixmgtoQLsKD1tipJ"
+    },
+    {
+        "asset_id": 325649314,
+        "asset_name": "Alghost #18",
+        "unit_name": "GHST18",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmTcRBP8tp76wTqLLnL3dTrKDdgr3x7c31nzgzbZqrDuxR"
+    },
+    {
+        "asset_id": 325649517,
+        "asset_name": "Alghost #19",
+        "unit_name": "GHST19",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmcTD682v7eNbNPuxuimz6wgNsz4mMwVXzLidGYHsYCUtD"
+    },
+    {
+        "asset_id": 325649748,
+        "asset_name": "Alghost #20",
+        "unit_name": "GHST20",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmUCGPtjJTaZR6rtisnYy3xjybbCzEUHVFTSWH1iSL87sE"
+    },
+    {
+        "asset_id": 326851755,
+        "asset_name": "Alghost #21",
+        "unit_name": "GHST21",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmeFTBv83T9UaeUAXeahcp4hKs4LnpoNia5sHBisHt4NSm"
+    },
+    {
+        "asset_id": 326852113,
+        "asset_name": "Alghost #22",
+        "unit_name": "GHST22",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmUAZKUgCw2zhuX66Bk1MRiib5Yk1WGKRp5rPhgcWpZUbj"
+    },
+    {
+        "asset_id": 326852543,
+        "asset_name": "Alghost #23",
+        "unit_name": "GHST23",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmPVRCgjitUUzMZtwYiADiLzHQv1QjeT3njXjwLcQkseLk"
+    },
+    {
+        "asset_id": 326853706,
+        "asset_name": "Alghost #24",
+        "unit_name": "GHST24",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmR9np8CLpt8wXwnGZn2zmBqccSht1Us94S85jmwa772B1"
+    },
+    {
+        "asset_id": 326854124,
+        "asset_name": "Alghost #25",
+        "unit_name": "GHST25",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmSM8qhWXrHpbdRJKkDk5dZ7UqDznHASMU6sd7vve1i9yF"
+    },
+    {
+        "asset_id": 326854934,
+        "asset_name": "Alghost #26",
+        "unit_name": "GHST26",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmWEv4eLHQPP1w9gvJMvp75SnKfdm2xe8TxSonbjFUjYrF"
+    },
+    {
+        "asset_id": 326856439,
+        "asset_name": "Alghost #27",
+        "unit_name": "GHST27",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmS5Ni2Y7FF1vjCuWno14PSDn8eZsQdNjhQuZUZBM16z3U"
+    },
+    {
+        "asset_id": 326856977,
+        "asset_name": "Alghost #28",
+        "unit_name": "GHST28",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmXuTX6PCR2HUv9dcZQTJRNMXmsYG3rLuWrZqHaPDFxqJa"
+    },
+    {
+        "asset_id": 326857433,
+        "asset_name": "Alghost #29",
+        "unit_name": "GHST29",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmQfBkqU4SZRueDi2egT2pmuN5DmJxheUAhimr5esgGu5N"
+    },
+    {
+        "asset_id": 326857774,
+        "asset_name": "Alghost #30",
+        "unit_name": "GHST30",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/Qmb8tPtgbf7EMZyRp2mHkvxx2ytyGDtq8wQJ36gCChUAp9"
+    },
+    {
+        "asset_id": 327935405,
+        "asset_name": "Alghost #31",
+        "unit_name": "GHST31",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmXedX6coxBneiYZvgg3YVPP69pkpZijw3AAioMnPKeSWs"
+    },
+    {
+        "asset_id": 327935622,
+        "asset_name": "Alghost #32",
+        "unit_name": "GHST32",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmerpdxyRet1ndDn5Rh1WVL7FMABrJSRvbnfQykAWbaRc3"
+    },
+    {
+        "asset_id": 327935840,
+        "asset_name": "Alghost #33",
+        "unit_name": "GHST33",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmZUX86ZpjgXNwErimU2YAvtnHtevpEC8qLHkKYNwq3TV7"
+    },
+    {
+        "asset_id": 327936022,
+        "asset_name": "Alghost #34",
+        "unit_name": "GHST34",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmW7ALqK3G6REJ6iUMyfptsB6miqy9YRgjf5M2QPJGjGWS"
+    },
+    {
+        "asset_id": 327936267,
+        "asset_name": "Alghost #35",
+        "unit_name": "GHST35",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmcxfBQqcberFngzuQsyS2uF2Bo4ieLmakF4KbzysvjM8C"
+    },
+    {
+        "asset_id": 327936582,
+        "asset_name": "Alghost #36",
+        "unit_name": "GHST36",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmUv7gvJiQmsuAXnt9XX92xwjsT8yMux4fKCRnybNhqxzB"
+    },
+    {
+        "asset_id": 327936944,
+        "asset_name": "Alghost #37",
+        "unit_name": "GHST37",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmNjbaUfsM7S8uEBCrnMx2RXup9zpEJcuqKqDWYpntzjhK"
+    },
+    {
+        "asset_id": 327937388,
+        "asset_name": "Alghost #38",
+        "unit_name": "GHST38",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmWSCDN3yVEnRDYrUQyDXhTTqE6pRRWv3VMEcyycvt8Y4d"
+    },
+    {
+        "asset_id": 327937623,
+        "asset_name": "Alghost #39",
+        "unit_name": "GHST39",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmaFv2DHp8iPYLEz3PyCAAEzhEukQJc48V2HF9qj3AeF9A"
+    },
+    {
+        "asset_id": 327937896,
+        "asset_name": "Alghost #40",
+        "unit_name": "GHST40",
+        "imageURL": "https://gateway.pinata.cloud/ipfs/QmTcqsZWj8iJhBpm6gcSQkrSEFwXtJnfwCqL1AfvL8WWNX"
+    }
+]
