@@ -1,11 +1,11 @@
 {
     "name": "Alghost",
-    "short_name": "CSA",
+    "short_name": "Alghost",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Alghost",
+    "description": "Alghosts, randomly generated unique 1/1 NFTs with +10k possibilities on ALGO blockchain.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

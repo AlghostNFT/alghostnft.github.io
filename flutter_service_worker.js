@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "1a7864e5dc085fc4015e8004df2e4cb6",
 "assets/assets/ab2.png": "a58edb38fc88ec1e9bed6ffe60c8c0b0",
 "assets/assets/alghost.json": "1a7ce87460f919e3a6f2824cbd25551f",
-"assets/assets/alghost2.json": "d1a803a4315649e16d6ff656e91ce60a",
+"assets/assets/alghost2.json": "497c90911bc0d182d824c218a9059364",
 "assets/assets/alghost_icon.png": "79f8fe6bc78538791f71410670bc5faa",
 "assets/assets/discord_logo.png": "a29bebe8ec341ff93356975d0cc7f30d",
 "assets/assets/twitter_logo.png": "b36ad77387e6497a2c5f87841f18fc07",
@@ -57,10 +57,10 @@ const RESOURCES = {
 "favicon.png": "4cbd4836503de665edaea47b9005125d",
 "icons/Icon-192.png": "79f8fe6bc78538791f71410670bc5faa",
 "icons/Icon-512.png": "36d28832eaa46b828006e3a8ef7593d7",
-"index.html": "f6ec4bfa70fbd1622dbb7026c7daccbc",
-"/": "f6ec4bfa70fbd1622dbb7026c7daccbc",
-"main.dart.js": "f787dcc4a9dfc7181888aa4472ff4260",
-"manifest.json": "9e9f8f17ad893ffb673fbeb552b93751",
+"index.html": "e405b888d86626be654e0f48930a111d",
+"/": "e405b888d86626be654e0f48930a111d",
+"main.dart.js": "f5e34ea627e56c70f57b5d716751df3b",
+"manifest.json": "8eb48514daa7a92160e43d9809a0f400",
 "version.json": "0c34ef5a1506994ac82e83b6aaa0288a"
 };
 
