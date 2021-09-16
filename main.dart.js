@@ -34780,12 +34780,10 @@ E.a20.prototype={
 $0(){C.a0.oQ(window,"https://raw.githubusercontent.com/AlghostNFT/alghostnft.github.io/master/assets/assets/chart3new.png","_blank")},
 $S:0}
 E.a2b.prototype={
-$2(a,b){var s,r=null,q=this.a,p=t.R
-q=R.rM(!1,!0,T.abz(H.a([T.AL(new T.eh(C.Am,new U.nm(new L.mG(C.c.P(C.c.P("images/",q.d[b].b.split(" ")[0])+" ",q.d[b].b.split(" ")[1])+".png",r,r),r),r),12),T.dF(r,10,r),T.AL(O.uM(q.d[b].b,A.dH(r,r,C.j,r,r,r,r,r,r,r,r,16,r,C.fK,r,r,!0,r,r,r,r,r,r,r,r)),1),T.AL(O.uM(q.d[b].c,A.dH(r,r,C.j,r,r,r,r,r,r,r,r,16,r,C.fJ,r,r,!0,r,r,r,r,r,r,r,r)),1),T.AL(O.uM(C.f.i(q.d[b].a),A.dH(r,r,C.j,r,r,r,r,r,r,r,r,r,r,C.fJ,r,r,!0,r,r,r,r,r,r,r,r)),1),T.DU(H.a([O.uM("Rank: "+C.f.i(q.d[b].e),A.dH(r,r,C.j,r,r,r,r,r,r,r,r,20,r,C.bi,r,r,!0,r,r,r,r,r,r,r,r)),T.dF(r,r,25),O.uM("Score: "+C.f.i(q.d[b].f),A.dH(r,r,C.j,r,r,r,r,r,r,r,r,20,r,C.bi,r,r,!0,r,r,r,r,r,r,r,r))],p),C.bT,C.hh,C.c4)],p),C.c3,C.c4),r,!0,r,r,r,r,r,r,r,r,r,new E.a2_(q,b),r,r,r)
-p=K.NH(16)
-s=C.ad.h(0,800)
-s.toString
-return T.zd(M.n_(C.ag,q,r,r,new S.fX(s,r,r,p,r,r,C.al),r,r,r,r),r,r)},
+$2(a,b){var s=null,r=this.a,q=t.R
+r=R.rM(!1,!0,T.abz(H.a([T.AL(new T.eh(C.Am,new U.nm(new L.mG(C.c.P(C.c.P("images/",r.d[b].b.split(" ")[0])+" ",r.d[b].b.split(" ")[1])+".png",s,s),s),s),12),T.dF(s,10,s),T.AL(O.uM(r.d[b].b,A.dH(s,s,C.j,s,s,s,s,s,s,s,s,16,s,C.fK,s,s,!0,s,s,s,s,s,s,s,s)),1),T.AL(O.uM(r.d[b].c,A.dH(s,s,C.j,s,s,s,s,s,s,s,s,16,s,C.fJ,s,s,!0,s,s,s,s,s,s,s,s)),1),T.AL(O.uM(C.f.i(r.d[b].a),A.dH(s,s,C.j,s,s,s,s,s,s,s,s,s,s,C.fJ,s,s,!0,s,s,s,s,s,s,s,s)),1),T.DU(H.a([O.uM("Rank: "+C.f.i(r.d[b].e),A.dH(s,s,C.j,s,s,s,s,s,s,s,s,20,s,C.bi,s,s,!0,s,s,s,s,s,s,s,s)),T.dF(s,s,25),O.uM("Score: "+C.f.i(r.d[b].f),A.dH(s,s,C.j,s,s,s,s,s,s,s,s,20,s,C.bi,s,s,!0,s,s,s,s,s,s,s,s))],q),C.bT,C.hh,C.c4)],q),C.c3,C.c4),s,!0,s,s,s,s,s,s,s,s,s,new E.a2_(r,b),s,s,s)
+q=K.NH(16)
+return T.zd(M.n_(C.ag,r,s,s,new S.fX(C.ad.h(0,850),s,s,q,s,s,C.al),s,s,s,s),s,s)},
 $S:154}
 E.a2_.prototype={
 $0(){var s="https://www.nftexplorer.app/asset/"+C.f.i(this.a.d[this.b].a)
