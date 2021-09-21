@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "353734fa45a2fdadfdc05c3762102801",
+  "assets/AssetManifest.json": "e9403ad95726372b95641482971b2d69",
 "assets/assets/ab2.png": "a58edb38fc88ec1e9bed6ffe60c8c0b0",
 "assets/assets/alghost.json": "1a7ce87460f919e3a6f2824cbd25551f",
 "assets/assets/alghost2.json": "820372676096ce5fa2f7650ac0547aff",
@@ -11,6 +11,7 @@ const RESOURCES = {
 "assets/assets/chart3.png": "65235631c02e73a810c7ef6762e51195",
 "assets/assets/chart3new.png": "f9e16fe4adaaf57184d92c1e3ba35e07",
 "assets/assets/discord_logo.png": "a29bebe8ec341ff93356975d0cc7f30d",
+"assets/assets/exp.png": "58c4724cf1b349ffea2ffadd89616579",
 "assets/assets/rg.png": "16d78d4270c8631b0c7e0bba9e0a4e52",
 "assets/assets/twitter_logo.png": "b36ad77387e6497a2c5f87841f18fc07",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -120,9 +121,9 @@ const RESOURCES = {
 "favicon.png": "4cbd4836503de665edaea47b9005125d",
 "icons/Icon-192.png": "79f8fe6bc78538791f71410670bc5faa",
 "icons/Icon-512.png": "36d28832eaa46b828006e3a8ef7593d7",
-"index.html": "631246584c56c88e62e98a3f0b4047d2",
-"/": "631246584c56c88e62e98a3f0b4047d2",
-"main.dart.js": "0d96e56d577b0418b542252f3fb0b042",
+"index.html": "1a611b4c81aa6306cded09a67021f242",
+"/": "1a611b4c81aa6306cded09a67021f242",
+"main.dart.js": "b57a8794a90d03a450fd1837b6721307",
 "manifest.json": "8eb48514daa7a92160e43d9809a0f400",
 "version.json": "0c34ef5a1506994ac82e83b6aaa0288a"
 };
