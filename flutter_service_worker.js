@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "77e16db540aa217b5d2c585763cbae1d",
 "assets/assets/ab2.png": "a58edb38fc88ec1e9bed6ffe60c8c0b0",
 "assets/assets/alghost.json": "1a7ce87460f919e3a6f2824cbd25551f",
-"assets/assets/alghost2.json": "0a9a3007c49fa4698b475f7450d26c5d",
+"assets/assets/alghost2.json": "5831f46679dfd69fe5bcf67cac7fa6ab",
 "assets/assets/alghost_icon.png": "79f8fe6bc78538791f71410670bc5faa",
 "assets/assets/chart3.png": "65235631c02e73a810c7ef6762e51195",
 "assets/assets/chart3new.png": "f9e16fe4adaaf57184d92c1e3ba35e07",
@@ -216,9 +216,9 @@ const RESOURCES = {
 "favicon.png": "4cbd4836503de665edaea47b9005125d",
 "icons/Icon-192.png": "79f8fe6bc78538791f71410670bc5faa",
 "icons/Icon-512.png": "36d28832eaa46b828006e3a8ef7593d7",
-"index.html": "873d7086ba9e3a9d9606fe4e3e990874",
-"/": "873d7086ba9e3a9d9606fe4e3e990874",
-"main.dart.js": "4bf5b7ebfd2e97a286ec8ed781e6df6f",
+"index.html": "533d3df33672788a751eb296d6127506",
+"/": "533d3df33672788a751eb296d6127506",
+"main.dart.js": "12ea86ad9c39ce7d748343c7249bb6d7",
 "manifest.json": "8eb48514daa7a92160e43d9809a0f400",
 "version.json": "0c34ef5a1506994ac82e83b6aaa0288a"
 };
