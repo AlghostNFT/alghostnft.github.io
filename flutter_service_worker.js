@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5ec7694528947c50afb07b670a1be26f",
+  "assets/AssetManifest.json": "d4d7c4b0c15536614506003a83e2cdb6",
 "assets/assets/ab2.png": "a58edb38fc88ec1e9bed6ffe60c8c0b0",
 "assets/assets/alghost.json": "1a7ce87460f919e3a6f2824cbd25551f",
-"assets/assets/alghost2.json": "60f9d0538b5474e99cc20c734ef79084",
+"assets/assets/alghost2.json": "6fdbb10b033e94128dc37a18f3dbbb5e",
 "assets/assets/alghost_icon.png": "79f8fe6bc78538791f71410670bc5faa",
 "assets/assets/chart3.png": "65235631c02e73a810c7ef6762e51195",
 "assets/assets/chart3new.png": "f9e16fe4adaaf57184d92c1e3ba35e07",
@@ -101,7 +101,12 @@ const RESOURCES = {
 "assets/images/Alghost%2520%2523173.png": "63a5fc8a5b9e1e2f5a8ce47885c692ab",
 "assets/images/Alghost%2520%2523174.png": "0e2e13153d8e5872d81bda6735c3d764",
 "assets/images/Alghost%2520%2523175.png": "261690863b77c1075406d381ed16da65",
+"assets/images/Alghost%2520%2523176.png": "d726fbc7d7dbea9d9c2c590465c9c45b",
+"assets/images/Alghost%2520%2523177.png": "cacce912ff396b26932f589a3cae1070",
+"assets/images/Alghost%2520%2523178.png": "2794b2c2776f2940940457955fe25d9d",
+"assets/images/Alghost%2520%2523179.png": "b0ff82770779b7169e7f93a015b63b65",
 "assets/images/Alghost%2520%252318.png": "fe230844e823337107d2e5602a276621",
+"assets/images/Alghost%2520%2523180.png": "1f7a5cb72a5494c05391e90108585936",
 "assets/images/Alghost%2520%252319.png": "d87b9b6ad8c08278482ca9b9b67c8cc8",
 "assets/images/Alghost%2520%25232.png": "5bd197d22134a88108fb33ac02bcfd9a",
 "assets/images/Alghost%2520%252320.png": "6f08315283bf39e2cf4c07eac81c2b60",
@@ -196,8 +201,8 @@ const RESOURCES = {
 "favicon.png": "4cbd4836503de665edaea47b9005125d",
 "icons/Icon-192.png": "79f8fe6bc78538791f71410670bc5faa",
 "icons/Icon-512.png": "36d28832eaa46b828006e3a8ef7593d7",
-"index.html": "1173e595b514595c133b1a2411218f67",
-"/": "1173e595b514595c133b1a2411218f67",
+"index.html": "6ba471329f8b2657a3e78e1fc1bc9eea",
+"/": "6ba471329f8b2657a3e78e1fc1bc9eea",
 "main.dart.js": "12ea86ad9c39ce7d748343c7249bb6d7",
 "manifest.json": "8eb48514daa7a92160e43d9809a0f400",
 "version.json": "0c34ef5a1506994ac82e83b6aaa0288a"
